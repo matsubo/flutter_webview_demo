@@ -1,16 +1,25 @@
-# onepat
+# Flutter webview demo
 
-A new Flutter project.
+Demo usage of `webview_flutter`
 
-## Getting Started
+## Requirements
 
-This project is a starting point for a Flutter application.
+- [Flutter setup](https://flutter.dev/docs/get-started/install)
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```
+% flutter pub get
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## usage
+
+```
+% flutter run
+```
+
+
+## Screenshot
+
+![ezgif-1-33dcb81c9681](https://user-images.githubusercontent.com/98103/61504775-83941300-aa17-11e9-83d1-d2b5a5c94320.gif)
+
