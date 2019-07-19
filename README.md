@@ -21,5 +21,4 @@ Demo usage of `webview_flutter`
 
 ## Screenshot
 
-![ezgif-1-33dcb81c9681](https://user-images.githubusercontent.com/98103/61504775-83941300-aa17-11e9-83d1-d2b5a5c94320.gif)
-
+![output](https://user-images.githubusercontent.com/98103/61510146-a977e280-aa2c-11e9-890a-b5e5eb1d9018.gif)
